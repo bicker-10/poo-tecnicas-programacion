@@ -1,0 +1,11 @@
+[2026-01-23 23:56:45] Se creó un carrito para el cliente: Bicker
+[2026-01-23 23:59:17] Producto agregado: Pc ($600.00)
+[2026-01-24 00:00:45] Producto agregado: Celular ($300.00)
+[2026-01-24 00:03:02] Producto agregado: Audífonos JBL ($100.00)
+[2026-01-24 00:03:28] Cierre manual del archivo de log (método cerrar()).
+[2026-01-24 00:08:54] Se creó un carrito para el cliente: Bicker
+[2026-01-24 00:09:25] Se creó un carrito para el cliente: Bicker
+[2026-01-24 00:10:05] Producto agregado: PlayStation 5 ($800.00)
+[2026-01-24 00:12:21] Producto agregado: Videojuegos ($200.00)
+[2026-01-24 00:13:08] Producto agregado: Audífonos JBL ($80.00)
+[2026-01-24 00:13:19] Cierre manual del archivo de log (método cerrar()).
