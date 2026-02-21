@@ -1,5 +1,5 @@
-Sistema de Gestión de Inventarios Mejorado (Semana 10)
-Descripción
+📦 Sistema de Gestión de Inventarios Mejorado (Semana 10)
+📌 Descripción
 
 Este proyecto corresponde a la mejora del Sistema de Gestión de Inventarios desarrollado en la Semana 9 de la asignatura Programación Orientada a Objetos.
 
@@ -15,11 +15,11 @@ Notificación en consola sobre el éxito o fallo de las operaciones.
 
 El sistema aplica principios de Programación Orientada a Objetos y buenas prácticas en el manejo de archivos en Python.
 
-Objetivos Implementados
+🎯 Objetivos Implementados
 
-Almacenamiento automático del inventario en inventario.txt
-Recuperación automática de productos al iniciar el sistema
-Manejo de excepciones como:
+✔ Almacenamiento automático del inventario en inventario.txt
+✔ Recuperación automática de productos al iniciar el sistema
+✔ Manejo de excepciones como:
 
 FileNotFoundError
 
@@ -29,10 +29,10 @@ ValueError
 
 OSError
 
-Validación de datos ingresados por el usuario
-Código modular y documentado
+✔ Validación de datos ingresados por el usuario
+✔ Código modular y documentado
 
-Arquitectura del Proyecto
+🧠 Arquitectura del Proyecto
 producto.py
 
 Define la clase Producto, que representa una entidad del inventario.
@@ -85,7 +85,7 @@ Mensajes de éxito o error
 
 Comunicación clara con el usuario
 
-Formato del Archivo
+💾 Formato del Archivo
 
 El archivo inventario.txt almacena cada producto en una línea con el siguiente formato:
 
@@ -98,7 +98,7 @@ Ejemplo:
 
 Se utiliza el separador | para evitar problemas con nombres que contengan comas.
 
-Manejo de Excepciones
+🔒 Manejo de Excepciones
 
 El sistema maneja situaciones como:
 
@@ -112,7 +112,7 @@ Errores del sistema operativo.
 
 Esto garantiza que el programa sea resiliente y no se detenga inesperadamente.
 
-Cómo Ejecutar el Proyecto
+▶ Cómo Ejecutar el Proyecto
 
 Abrir la carpeta SEMANA10 en Visual Studio Code.
 
@@ -121,7 +121,7 @@ Asegurarse de tener Python instalado.
 Ejecutar en la terminal:
 
 python main.py
-Pruebas Realizadas
+🧪 Pruebas Realizadas
 
 Primera ejecución sin archivo previo.
 
@@ -133,7 +133,7 @@ Simulación de líneas corruptas en el archivo.
 
 Pruebas de manejo de errores de escritura.
 
-Conclusión
+📈 Conclusión
 
 La integración de manipulación de archivos y manejo de excepciones fortalece el sistema, permitiendo desarrollar una aplicación más robusta, segura y cercana a entornos reales de producción.
 
