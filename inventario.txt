@@ -2,4 +2,7 @@
 2|lenteja|10|1.0
 3|carne|12|5.0
 4|limón|20|2.0
-5|azúcar|2|2.5
+P1|Camiseta de futbol Barcelona 2012|2|100.0
+P2|Camiseta de furbol Manchester United 2008|4|200.0
+P3|Camiseta de futbol Santos 2011|6|300.0
+P4|Camiseta de futbol AC MILAN 2007|8|400.0
