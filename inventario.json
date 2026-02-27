@@ -1,0 +1,28 @@
+{
+  "productos": [
+    {
+      "id": "P1",
+      "nombre": "Balón de futbol Adidas Jabulani - 2010",
+      "cantidad": 2,
+      "precio": 80.0
+    },
+    {
+      "id": "P2",
+      "nombre": "Balón de futbol Brazuca - 2014",
+      "cantidad": 4,
+      "precio": 160.0
+    },
+    {
+      "id": "P3",
+      "nombre": "Balón de futbol Adidas Telstar 18 - 2018",
+      "cantidad": 6,
+      "precio": 240.0
+    },
+    {
+      "id": "P4",
+      "nombre": "Balón de futbol Al Rihla - 2022",
+      "cantidad": 8,
+      "precio": 320.0
+    }
+  ]
+}
